@@ -5,6 +5,11 @@ As a simple experiment, this notebook takes a legal question and asks opinions o
 
 There are many things to explore, including how much does model matter? How does temperature affect results? How much randomness is involved? Prompt?
 
-![Plotting the results](supreme-court-votes.png)
+gpt-3.5-turbo results
+
+![gpt-3.5-turbo results](supreme-court-votes.png)
+
+gpt-4 results
+![gpt-4 results](supreme-court-votes-gpt4.png)
 
 There's a path of exploration here, it starts with prompts, moves to embeddings, then eventually fine-tuning. Of course, it's easier to craft a prompt than to fine-tune a model so why not start there? 
