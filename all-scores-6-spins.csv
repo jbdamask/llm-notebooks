@@ -1,0 +1,73 @@
+﻿Justice,model,temp,score1,score2,score3,score4,score5,score6,final
+"John G. Roberts, Jr.",gpt-3.5-turbo,0,1,1,1,1,1,1,1
+"John G. Roberts, Jr.",gpt-3.5-turbo,0.4,1,1,1,1,1,1,1
+"John G. Roberts, Jr.",gpt-3.5-turbo,0.7,1,1,1,1,1,1,1
+"John G. Roberts, Jr.",gpt-3.5-turbo,1,1,1,1,1,1,1,1
+"John G. Roberts, Jr.",gpt-4,0,1,1,1,0,0,0,0.5
+"John G. Roberts, Jr.",gpt-4,0.4,1,1,1,1,0,0,0.7
+"John G. Roberts, Jr.",gpt-4,0.7,1,0,0,0,0,0,0.2
+"John G. Roberts, Jr.",gpt-4,1,1,0,0,0,0,0,0.2
+Clarence Thomas,gpt-3.5-turbo,0,-1,-1,-1,-1,-1,-1,-1
+Clarence Thomas,gpt-3.5-turbo,0.4,-1,-1,-1,-1,-1,-1,-1
+Clarence Thomas,gpt-3.5-turbo,0.7,-1,-1,-1,-1,-1,-1,-1
+Clarence Thomas,gpt-3.5-turbo,1,-1,-1,-1,-1,-1,-1,-1
+Clarence Thomas,gpt-4,0,-1,-1,-1,-1,-1,-1,-1
+Clarence Thomas,gpt-4,0.4,-1,-1,-1,-1,-1,-1,-1
+Clarence Thomas,gpt-4,0.7,-1,-1,-1,-1,-1,-1,-1
+Clarence Thomas,gpt-4,1,-1,-1,-1,-1,-1,-1,-1
+"Samuel A. Alito, Jr.",gpt-3.5-turbo,0,0,0,0,0,0,0,0
+"Samuel A. Alito, Jr.",gpt-3.5-turbo,0.4,0,1,1,1,1,1,0.8
+"Samuel A. Alito, Jr.",gpt-3.5-turbo,0.7,1,1,1,0,0,0,0.5
+"Samuel A. Alito, Jr.",gpt-3.5-turbo,1,1,1,1,1,0,0,0.7
+"Samuel A. Alito, Jr.",gpt-4,0,-1,-1,-1,0,0,0,-0.5
+"Samuel A. Alito, Jr.",gpt-4,0.4,-1,-1,-1,-1,-1,0,-0.8
+"Samuel A. Alito, Jr.",gpt-4,0.7,-1,0,0,0,0,0,-0.2
+"Samuel A. Alito, Jr.",gpt-4,1,-1,-1,0,0,0,0,-0.3
+Sonia Sotomayor,gpt-3.5-turbo,0,1,1,1,1,1,1,1
+Sonia Sotomayor,gpt-3.5-turbo,0.4,0,1,1,1,1,1,0.8
+Sonia Sotomayor,gpt-3.5-turbo,0.7,0,1,1,1,1,1,0.8
+Sonia Sotomayor,gpt-3.5-turbo,1,1,1,1,1,1,1,1
+Sonia Sotomayor,gpt-4,0,1,1,1,1,1,1,1
+Sonia Sotomayor,gpt-4,0.4,1,1,1,1,1,1,1
+Sonia Sotomayor,gpt-4,0.7,1,1,1,1,1,1,1
+Sonia Sotomayor,gpt-4,1,0,1,1,1,1,1,0.8
+Elena Kagan,gpt-3.5-turbo,0,1,1,1,1,1,1,1
+Elena Kagan,gpt-3.5-turbo,0.4,1,1,1,1,1,1,1
+Elena Kagan,gpt-3.5-turbo,0.7,0,0,1,1,1,1,0.7
+Elena Kagan,gpt-3.5-turbo,1,1,1,1,1,1,1,1
+Elena Kagan,gpt-4,0,1,1,1,1,1,1,1
+Elena Kagan,gpt-4,0.4,1,1,1,1,1,1,1
+Elena Kagan,gpt-4,0.7,0,1,1,1,1,1,0.8
+Elena Kagan,gpt-4,1,0,1,1,1,1,1,0.8
+Neil M. Gorsuch,gpt-3.5-turbo,0,0,1,1,1,1,1,0.8
+Neil M. Gorsuch,gpt-3.5-turbo,0.4,0,0,1,1,1,1,0.7
+Neil M. Gorsuch,gpt-3.5-turbo,0.7,0,0,1,1,1,1,0.7
+Neil M. Gorsuch,gpt-3.5-turbo,1,-1,1,1,0,0,0,0.2
+Neil M. Gorsuch,gpt-4,0,1,0,0,0,0,0,0.2
+Neil M. Gorsuch,gpt-4,0.4,-1,-1,0,0,0,0,-0.3
+Neil M. Gorsuch,gpt-4,0.7,-1,0,0,0,0,0,-0.2
+Neil M. Gorsuch,gpt-4,1,-1,0,0,0,0,0,-0.2
+Brett M. Kavanaugh,gpt-3.5-turbo,0,1,0,0,0,0,0,0.2
+Brett M. Kavanaugh,gpt-3.5-turbo,0.4,0,1,1,1,1,1,0.8
+Brett M. Kavanaugh,gpt-3.5-turbo,0.7,0,1,1,1,1,1,0.8
+Brett M. Kavanaugh,gpt-3.5-turbo,1,0,0,0,1,1,1,0.5
+Brett M. Kavanaugh,gpt-4,0,0,0,0,0,1,1,0.3
+Brett M. Kavanaugh,gpt-4,0.4,0,0,0,0,1,1,0.3
+Brett M. Kavanaugh,gpt-4,0.7,0,0,0,0,0,0,0
+Brett M. Kavanaugh,gpt-4,1,0,0,0,0,0,0,0
+Amy Coney Barrett,gpt-3.5-turbo,0,0,0,0,0,0,1,0.2
+Amy Coney Barrett,gpt-3.5-turbo,0.4,0,0,0,0,0,0,0
+Amy Coney Barrett,gpt-3.5-turbo,0.7,0,0,0,0,0,0,0
+Amy Coney Barrett,gpt-3.5-turbo,1,0,0,0,0,0,1,0.2
+Amy Coney Barrett,gpt-4,0,0,0,0,0,0,0,0
+Amy Coney Barrett,gpt-4,0.4,-1,0,0,0,0,0,-0.2
+Amy Coney Barrett,gpt-4,0.7,0,0,0,0,0,0,0
+Amy Coney Barrett,gpt-4,1,-1,0,0,0,0,0,-0.2
+Ketanji Brown Jackson,gpt-3.5-turbo,0,1,1,1,1,1,1,1
+Ketanji Brown Jackson,gpt-3.5-turbo,0.4,1,1,1,1,1,1,1
+Ketanji Brown Jackson,gpt-3.5-turbo,0.7,0,1,1,1,1,1,0.8
+Ketanji Brown Jackson,gpt-3.5-turbo,1,0,1,1,1,1,1,0.8
+Ketanji Brown Jackson,gpt-4,0,1,1,1,1,1,1,1
+Ketanji Brown Jackson,gpt-4,0.4,0,1,1,1,1,1,0.8
+Ketanji Brown Jackson,gpt-4,0.7,0,0,1,1,1,1,0.7
+Ketanji Brown Jackson,gpt-4,1,0,1,1,1,1,1,0.8
