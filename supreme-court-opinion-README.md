@@ -12,4 +12,7 @@ gpt-3.5-turbo results
 gpt-4 results
 ![gpt-4 results](supreme-court-votes-gpt4.png)
 
+Another way to plot these data
+![model comparison](supreme-court-scatterplot.png)
+
 There's a path of exploration here, it starts with prompts, moves to embeddings, then eventually fine-tuning. Of course, it's easier to craft a prompt than to fine-tune a model so why not start there? 
